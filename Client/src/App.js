@@ -57,8 +57,8 @@ function App() {
 
       <div className="App">
         <h1 style={{ color: "white" }}>Decentralized File Sharing System</h1>
-        <div class="bg"></div>
-        <div class="bg"></div>
+        <div className="bg"></div>
+        <div className="bg"></div>
 
         <p style={{ color: "white" }}>
           Account : {account ? account : "Not connected"}
