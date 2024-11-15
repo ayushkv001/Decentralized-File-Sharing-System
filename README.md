@@ -22,7 +22,7 @@ This project facilitates decentralized file sharing on the blockchain using Soli
             **1.1** Run "npm i"
             **1.2** Run "npx hardhat node"
             **1.3** Open another terminal for same folder and run "npx hardhat run --network localhost scripts/deploy.js" 
-- **Step 2** Copy the Contract Address and paste it in contractAddress in App.js
+- **Step 2** Copy the Contract Address and paste it in contractAddress in App.js in Client/src folder
 - **Step 3** Open client folder in terminal 
             **1.1** Run "npm i"
             **1.2** Run "npm start"
